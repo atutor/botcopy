@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<module version="0.1"> 
+    <name lang="en">BotCopy</name> 
+    <description lang="en">This module is used to direct search engines to a search engine friendly copy of an ATutor site, created with a tool like HTTracks, and direct people to the real site.</description> 
+    <maintainers>
+        <maintainer> 
+            <name>ATutor Team</name> 
+            <email>info@atutor.ca</email> 
+        </maintainer>
+    </maintainers> 
+    <url>http://atutor.ca</url> 
+    <license>All rights reserved</license> 
+    <private>
+        <subsite>atsp.atutorspaces.com</subsite>
+    </private>
+	<release> 
+        <version>0.1</version> 
+        <date>2015-03-30</date> 
+        <state>stable</state> 
+        <notes></notes> 
+    </release> 
+</module>
